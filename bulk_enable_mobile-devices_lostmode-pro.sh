@@ -2,9 +2,9 @@
 
 ###################
 # bulk_enable_mobile-devices_lostmode-pro.sh - script to bulk enable lost mode for mobile devices via the pro API
-# Shannon Pasto https://github.com/shannonpasto/Bulk_Enable_Mobile-Devices_LostMode
+# https://github.com/gimmickyboot/Bulk_Enable_Mobile-Devices_LostMode
 #
-# v1.1 (14/11/2025)
+# v1.1.1 (19/12/2025)
 ###################
 
 ## uncomment the next line to output debugging to stdout
